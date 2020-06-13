@@ -4,6 +4,8 @@
 % described in the paper 
 %         "BENCHMARK COMPUTATION OF MORPHOLOGICAL COMPLEXITY IN THE FCH GRADIENT FLOW"
 % by Andrew Christlieb, Keith Promislowm Zengqiang Tan, Sulin Wang, Brian Wetton, and Steven Wise.
+% This paper has been submitted to Elsevier on June 6, 2020
+% You could download the paper: https://arxiv.org/abs/2006.04784
 
 % where the operator G := Lap/(1-rho*Lap), dE/dt is the variational derivative of the Energy
 %    E = Energy(u) := INTEGRAL(1/2*(eps^2 Lap u - Wq'(u))^2 - (eps^2/2*eta1*|Grad u|^2+eta2*Wq(u))) 
